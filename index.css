@@ -72,6 +72,13 @@ body, html {
     display: block;
 }
 
+#eng img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 .text h2 {
     color: #fff;
     text-align: center;
@@ -194,6 +201,10 @@ body, html {
 
     .text img {
         width: 90%;
+    }
+
+    #eng img {
+        width: 75%;
     }
 
     .text h2 {
